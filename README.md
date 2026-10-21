@@ -1,43 +1,53 @@
-<div align="center">
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding Banner" width="100%" style="border-radius: 12px;" />
+</p>
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:6272a4&height=220&section=header&text=Salom,%20men%20EshpolatovM!&fontSize=42&fontColor=f8f8f2&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Building%20Digital%20Products&descSize=18&descAlignY=65" width="100%" />
-
-  <!-- Dinamik Typist matni -->
+<!-- Typing SVG Animation -->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%26+Next.js+Enthusiast;Node.js+%2B+PostgreSQL;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Miraziz+Eshpolatov;Full-Stack+Web+Developer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+%26+Scalable+Digital+Products" alt="Typing SVG" />
   </a>
+</p>
 
-  <br/>
-
-  <!-- Social Badges -->
+<!-- Top Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EshpolatovM&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/EshpolatovM?tab=followers">
+    <img src="https://img.shields.io/github/followers/EshpolatovM?label=Followers&style=flat-square&color=7c3aed" alt="GitHub Followers" />
+  </a>
+  <img src="https://img.shields.io/badge/📍_Toshkent,_Uzbekistan-1e293b?style=flat-square" alt="Location" />
+  <a href="https://codeaziz-my.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-codeaziz.dev-2563eb?style=flat-square" alt="Portfolio" />
+  </a>
   <a href="https://instagram.com/devver.dev">
-    <img src="https://img.shields.io/badge/Instagram-devver.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-devver.dev-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://t.me/EshpolatovM">
-    <img src="https://img.shields.io/badge/Telegram-Bog'lanish-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20yozish-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</p>
 
-</div>
+<hr />
 
-<br/>
+<!-- About Me -->
+<h3 align="center">⚡ About Me</h3>
 
-### 👨‍💻 Men haqimda (About Me)
-
-```typescript
-const developer: DeveloperProfile = {
-  name: "EshpolatovM",
-  currentRole: "Full-Stack Developer Intern",
-  passions: ["Clean Code", "Modern Web Architecture", "Linux Customization"],
-  languages: ["Uzbek (Native)", "English", "Russian"],
-  currentStack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "PostgreSQL", "Prisma ORM"],
-    tools: ["WebStorm", "Git", "Linux (Fedora)"]
+```ts
+const miraziz: Developer = {
+  name: "Eshpolatov Miraziz",
+  username: "EshpolatovM",
+  role: "Full-Stack Developer Intern",
+  education: "Mars IT School",
+  location: "Tashkent, Uzbekistan 🇺🇿",
+  os: "Fedora Linux 🐧",
+  editor: "WebStorm",
+  passions: [
+    "Clean Code",
+    "Modern Web Architecture",
+    "Full-Stack Engineering",
+    "Linux Customization"
+  ],
+  techStack: {
+    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "TanStack Query"],
+    backend: ["Node.js", "Express.js", "PostgreSQL", "Prisma ORM"]
   },
-  futureGoals: ["Architecting scalable systems", "Mastering microservices"],
-  quote: "Talk is cheap. Show me the code. — Linus Torvalds"
+  mission: "Talk is cheap. Show me the code. — Linus Torvalds"
 };
