@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Pixel art / Anime banner -->
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:6272a4&height=220&section=header&text=Salom,%20men%20EshpolatovM!&fontSize=42&fontColor=f8f8f2&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Building%20Digital%20Products&descSize=18&descAlignY=65" width="100%" />
 
   <!-- Dinamik Typist matni -->
@@ -41,23 +41,3 @@ const developer: DeveloperProfile = {
   futureGoals: ["Architecting scalable systems", "Mastering microservices"],
   quote: "Talk is cheap. Show me the code. — Linus Torvalds"
 };
-
-### 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,postgres,github" />
-</div>
-
-<br/>
-
-### 💜 Core Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
