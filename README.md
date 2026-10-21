@@ -10,7 +10,7 @@
 
   <br/>
 
-  <!-- Social & Portfolio Badges -->
+  <!-- Social Badges -->
   <a href="https://instagram.com/devver.dev">
     <img src="https://img.shields.io/badge/Instagram-devver.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
